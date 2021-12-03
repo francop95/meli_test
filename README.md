@@ -16,7 +16,7 @@ First step to make the API run, is to run the notebook 'API.ipynb', you need to 
 
 Next, you need to open PostMan, this is a really friendly app to make requests to API's, in this case we are going to use the following requests:
 
-GET https://host/experiment/<:id>/result?day=YYYY-MM-DD HH
+GET https://host/experiment/<:id>/result?day=YYYY-MM-DD HH \n
 GET https://host/experiment/results?day=YYYY-MM-DD HH
 
 Where <:id> is the name of the experiment and day=YYYY-MM-DD HH the day with the format to filter the csv.
