@@ -4,17 +4,17 @@ Requests:
 
 *python 3.6 or later is required with the following libraries:
   
-  -flask
+          -flask
   
-  -flask_restful
+          -flask_restful
   
-  -pandas
+          -pandas
   
-  -numpy
+          -numpy
   
-  -time
+          -time
   
-  -datetime
+          -datetime
 
 *PostMan
 
