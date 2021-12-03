@@ -3,11 +3,17 @@
 Requests:
 
 *python 3.6 or later is required with the following libraries:
+  
   -flask
+  
   -flask_restful
+  
   -pandas
+  
   -numpy
+  
   -time
+  
   -datetime
 
 *PostMan
