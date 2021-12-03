@@ -30,5 +30,5 @@ Where <:id> is the name of the experiment and day=YYYY-MM-DD HH the day with the
 
 The only problem is that if an experiment was used but none of its variants have sales, it will not be shown, instead of displaying 0 sales. This is something I have to keep working into.
 
-Another important matter to consider is that this is surely the first prototype of this API. In the future, the idea is to improve it using SPARK, with the library PySpark. This will increase the response time, since it is designed to work with bigdata.
+Another important matter to consider, is that this is surely the first prototype of this API. In the future, the idea is to improve it using SPARK, with the library PySpark. This will increase the response time, since it is designed to work with bigdata.
 
