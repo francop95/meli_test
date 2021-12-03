@@ -18,7 +18,7 @@ Requests:
 
 *PostMan
 
-First step to make the API run, is to run the notebook 'API.ipynb', you need to have the csv 'Experiments DataSet For Excercise-small.csv' in the same folder.
+First step to run the API, is to run the notebook 'API.ipynb', you need to have the csv 'Experiments DataSet For Excercise-small.csv' in the same folder.
 
 Next, you need to open PostMan, this is a really friendly app to make requests to API's, in this case we are going to use the following requests:
 
